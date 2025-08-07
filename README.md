@@ -87,8 +87,8 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
 ## 🌎 Nossas redes sociais
 <p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
+    <img align=left margin=10 width=80 src="https://github.com/Arthur18dev.png"/>
     <p>&nbsp&nbsp&nbspArthur Guilherme<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
+    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;
 </p>
 <br/><br/>
